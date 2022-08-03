@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name=" Regression Suite">
+
+	<listeners>
+		<listener class-name="com.orangehrm.utilities.ExtentReportManager"/>
+	</listeners>
+	<parameter name = "browserName" value = "chrome"/>
+	
+	
+	<test name = "TC001_verifyhomePage">
+	    <classes>
+    		  <class name="com.orangehrm.testcases.TC001_verifyhomePage"/>
+    	</classes>
+  	</test>
+  	
+  	<test name = "TC002_loginTestCase">
+	    <classes>
+    		  <class name="com.orangehrm.testcases.TC002_loginTestCase"/>
+    	</classes>
+  	</test>
+  	
+  	<test name = "TC003_dashboardPage">
+	    <classes>
+    		  <class name="com.orangehrm.testcases.TC003_dashboardPage"/>
+    	</classes>
+  	</test>
+  
+</suite> <!-- Suite -->

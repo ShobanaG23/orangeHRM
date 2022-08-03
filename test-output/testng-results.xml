@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name=" Regression Suite" duration-ms="44539" started-at="2022-08-02T23:36:03 EDT" finished-at="2022-08-02T23:36:47 EDT">
+    <groups>
+    </groups>
+    <test name="TC001_verifyhomePage" duration-ms="10005" started-at="2022-08-02T23:36:03 EDT" finished-at="2022-08-02T23:36:13 EDT">
+      <class name="com.orangehrm.testcases.TC001_verifyhomePage">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.testcases.TC001_verifyhomePage@b5174b]" name="setup" is-config="true" duration-ms="8432" started-at="2022-08-02T23:36:03 EDT" finished-at="2022-08-02T23:36:11 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTestCase()[pri:0, instance:com.orangehrm.testcases.TC001_verifyhomePage@b5174b]" name="verifyHomePageTitleTestCase" duration-ms="260" started-at="2022-08-02T23:36:11 EDT" finished-at="2022-08-02T23:36:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTestCase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orangehrm.testcases.TC001_verifyhomePage@b5174b]" name="teardown" is-config="true" duration-ms="1139" started-at="2022-08-02T23:36:11 EDT" finished-at="2022-08-02T23:36:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.orangehrm.testcases.TC001_verifyhomePage -->
+    </test> <!-- TC001_verifyhomePage -->
+    <test name="TC002_loginTestCase" duration-ms="16658" started-at="2022-08-02T23:36:13 EDT" finished-at="2022-08-02T23:36:30 EDT">
+      <class name="com.orangehrm.testcases.TC002_loginTestCase">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.testcases.TC002_loginTestCase@ad3bc1]" name="setup" is-config="true" duration-ms="7378" started-at="2022-08-02T23:36:13 EDT" finished-at="2022-08-02T23:36:20 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTestCase()[pri:0, instance:com.orangehrm.testcases.TC002_loginTestCase@ad3bc1]" name="loginTestCase" duration-ms="8001" started-at="2022-08-02T23:36:20 EDT" finished-at="2022-08-02T23:36:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orangehrm.testcases.TC002_loginTestCase@ad3bc1]" name="teardown" is-config="true" duration-ms="1274" started-at="2022-08-02T23:36:28 EDT" finished-at="2022-08-02T23:36:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.orangehrm.testcases.TC002_loginTestCase -->
+    </test> <!-- TC002_loginTestCase -->
+    <test name="TC003_dashboardPage" duration-ms="17471" started-at="2022-08-02T23:36:30 EDT" finished-at="2022-08-02T23:36:47 EDT">
+      <class name="com.orangehrm.testcases.TC003_dashboardPage">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.testcases.TC003_dashboardPage@1edbc4d]" name="setup" is-config="true" duration-ms="7433" started-at="2022-08-02T23:36:30 EDT" finished-at="2022-08-02T23:36:37 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="moveInDashBoardPage()[pri:0, instance:com.orangehrm.testcases.TC003_dashboardPage@1edbc4d]" name="moveInDashBoardPage" duration-ms="9040" started-at="2022-08-02T23:36:37 EDT" finished-at="2022-08-02T23:36:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveInDashBoardPage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orangehrm.testcases.TC003_dashboardPage@1edbc4d]" name="teardown" is-config="true" duration-ms="991" started-at="2022-08-02T23:36:46 EDT" finished-at="2022-08-02T23:36:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.orangehrm.testcases.TC003_dashboardPage -->
+    </test> <!-- TC003_dashboardPage -->
+  </suite> <!--  Regression Suite -->
+</testng-results>

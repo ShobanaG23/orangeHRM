@@ -1,0 +1,420 @@
+[INFO ] 02-08-2022 12:24:40.497 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 12:24:40.509 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 12:24:40.591 TC001_verifyhomePage - the displayed url is : data:,
+[INFO ] 02-08-2022 12:24:40.599 TC001_verifyhomePage - title of the page is :
+[INFO ] 02-08-2022 12:24:41.404 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 12:27:40.991 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 12:27:41.001 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 12:27:41.045 TC001_verifyhomePage - the displayed url is : data:,
+[INFO ] 02-08-2022 12:27:41.056 TC001_verifyhomePage - title of the page is :
+[INFO ] 02-08-2022 12:27:41.884 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:20:57.169 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:20:57.176 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:20:57.225 TC001_verifyhomePage - the displayed url is : data:,
+[INFO ] 02-08-2022 01:20:57.236 TC001_verifyhomePage - title of the page is :
+[INFO ] 02-08-2022 01:20:58.081 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:28:28.099 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:28:28.108 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:28:28.144 TC001_verifyhomePage - the displayed url is : data:,
+[INFO ] 02-08-2022 01:28:28.149 TC001_verifyhomePage - title of the page is :
+[INFO ] 02-08-2022 01:28:28.908 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:28:30.434 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:28:30.436 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:28:31.227 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 01:31:07.321 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:31:07.327 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:31:07.375 TC001_verifyhomePage - the displayed url is : data:,
+[INFO ] 02-08-2022 01:31:07.392 TC001_verifyhomePage - title of the page is :
+[INFO ] 02-08-2022 01:31:08.983 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:31:08.984 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:32:47.523 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:32:52.545 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:32:52.569 TC001_verifyhomePage - the displayed url is : data:,
+[INFO ] 02-08-2022 01:32:52.575 TC001_verifyhomePage - title of the page is :
+[INFO ] 02-08-2022 01:32:54.215 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:32:59.219 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:34:31.848 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:34:37.626 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:34:37.649 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:34:37.656 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:34:39.352 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:34:45.230 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:36:45.424 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:36:51.174 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:36:51.212 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:36:51.223 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:36:53.467 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:36:59.306 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:43:06.545 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:43:12.309 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:43:12.347 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:43:12.357 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:43:14.566 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:43:20.478 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:48:20.601 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:48:26.350 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:48:26.382 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:48:26.388 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:48:27.734 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:48:29.496 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:48:35.182 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:48:36.322 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 01:51:03.047 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:51:08.775 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:51:08.801 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:51:08.805 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:51:08.805 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 01:51:09.617 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:51:11.186 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:51:16.888 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:51:18.090 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 01:53:05.656 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:53:11.344 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:53:11.370 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:53:11.377 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:53:12.214 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:53:13.981 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:53:19.672 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:53:20.835 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 01:53:53.857 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:53:59.583 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:53:59.619 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:53:59.626 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:54:01.018 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:54:02.763 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:54:08.455 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:54:09.586 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 01:55:24.104 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:55:29.808 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 01:55:29.838 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 01:55:29.844 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 01:55:30.644 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 01:55:32.167 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 01:55:38.025 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 01:55:39.182 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 02:03:28.220 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:03:33.877 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 02:03:33.903 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 02:03:33.907 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 02:03:33.907 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 02:03:35.250 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 02:03:36.903 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:03:42.643 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 02:03:47.980 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 02:03:48.180 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 02:03:49.752 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 02:03:50.581 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 02:19:01.344 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:19:06.935 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 02:19:06.966 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 02:19:06.970 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 02:19:06.970 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 02:19:08.300 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 02:19:09.893 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:19:15.543 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 02:19:20.808 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 02:19:21.028 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 02:19:22.517 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 02:19:22.524 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 02:19:23.283 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 02:20:39.780 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:20:45.404 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 02:20:45.431 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 02:20:45.436 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 02:20:45.436 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 02:20:46.251 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 02:20:47.828 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:20:53.443 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 02:20:58.636 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 02:20:58.805 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 02:21:00.354 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 02:21:00.360 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 02:21:01.071 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 02:22:57.862 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:23:03.577 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 02:23:03.608 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 02:23:03.613 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 02:23:03.613 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 02:23:04.385 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 02:23:05.956 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:23:11.657 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 02:23:16.877 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 02:23:17.047 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 02:23:18.694 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 02:23:18.808 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 02:23:18.815 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 02:23:19.945 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 02:24:08.462 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:24:14.567 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 02:24:14.592 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 02:24:14.598 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 02:24:14.599 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 02:24:15.384 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 02:24:16.833 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 02:24:22.739 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 02:24:27.993 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 02:24:28.174 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 02:24:29.692 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 02:24:30.232 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 02:24:30.239 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 02:24:31.109 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 03:56:21.034 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 03:56:26.760 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 03:56:26.798 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 03:56:26.804 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 03:56:26.805 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 03:56:27.077 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 03:56:28.211 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 03:56:30.083 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 03:56:35.749 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 03:56:36.000 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 03:56:41.271 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 03:56:41.429 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 03:56:42.863 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 03:56:43.393 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 03:56:43.479 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 03:56:43.483 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 03:56:44.728 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 10:45:17.340 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 10:45:23.222 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 10:45:23.261 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 10:45:23.268 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 10:45:23.268 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 10:45:23.621 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 10:45:25.126 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 10:45:27.672 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 10:45:33.706 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 10:45:39.003 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 10:45:39.224 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 10:45:40.954 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 10:45:41.383 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 10:45:41.530 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 10:45:41.539 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 10:45:42.379 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 10:45:44.517 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 10:45:50.221 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 10:46:11.046 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 10:47:14.949 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 10:47:20.596 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 10:47:20.626 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 10:47:20.632 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 10:47:20.632 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 10:47:20.897 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 10:47:21.782 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 10:47:24.051 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 10:47:29.938 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 10:47:35.268 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 10:47:35.518 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 10:47:37.418 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 10:47:37.875 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 10:47:37.969 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 10:47:37.981 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 10:47:39.185 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 10:47:41.102 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 10:47:46.858 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 10:47:52.119 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 10:47:52.350 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 10:47:54.134 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 10:47:56.783 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:04:20.635 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:04:26.776 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:04:26.802 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:04:26.809 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:04:26.809 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:04:27.054 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:04:27.976 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:04:30.061 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:04:35.732 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:04:41.043 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:04:41.286 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:04:43.071 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:04:43.596 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:04:43.713 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:04:43.723 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:04:44.628 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:04:46.366 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:04:51.977 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:04:57.259 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:04:57.522 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:04:59.155 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:05:02.344 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:12:33.909 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:12:39.473 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:12:39.497 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:12:39.503 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:12:39.504 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:12:39.743 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:12:40.967 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:12:43.051 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:12:48.663 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:12:53.941 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:12:54.175 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:12:55.994 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:12:56.592 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:12:56.727 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:12:56.740 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:12:57.972 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:12:59.847 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:13:05.535 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:13:10.813 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:13:11.043 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:13:12.809 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:13:15.384 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:22:36.114 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:22:41.648 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:22:41.673 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:22:41.678 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:22:41.678 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:22:41.938 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:22:42.762 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:22:44.875 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:22:50.494 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:22:55.772 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:22:56.032 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:22:57.632 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:22:58.061 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:22:58.174 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:22:58.181 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:22:59.037 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:23:00.945 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:23:06.497 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:23:11.768 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:23:12.013 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:23:13.816 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:23:16.616 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:24:54.086 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:24:59.658 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:24:59.689 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:24:59.695 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:24:59.695 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:24:59.940 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:25:00.804 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:25:02.955 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:25:08.594 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:25:13.885 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:25:14.134 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:25:15.807 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:25:16.271 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:25:16.369 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:25:16.378 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:25:17.221 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:25:19.013 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:25:24.706 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:25:29.959 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:25:30.191 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:25:31.892 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:25:34.903 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:29:30.107 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:29:35.670 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:29:35.693 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:29:35.699 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:29:35.700 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:29:35.944 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:29:36.807 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:29:38.862 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:29:44.480 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:29:49.823 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:29:50.067 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:29:51.770 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:29:52.383 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:29:52.495 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:29:52.505 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:29:53.773 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:29:55.616 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:30:01.305 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:30:06.594 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:30:06.843 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:30:08.597 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:30:11.445 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:32:29.435 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:32:35.005 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:32:35.029 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:32:35.035 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:32:35.035 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:32:35.260 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:32:36.542 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:32:38.607 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:32:44.199 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:32:49.524 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:32:49.801 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:32:51.528 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:32:52.272 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:32:52.411 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:32:52.428 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:32:53.612 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:32:55.411 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:33:01.169 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:33:06.449 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:33:06.663 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:33:08.542 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:33:09.160 TC003_dashboardPage - screenshots captured successfully
+[INFO ] 02-08-2022 11:33:11.290 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 02-08-2022 11:36:06.058 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:36:11.656 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 02-08-2022 11:36:11.681 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 02-08-2022 11:36:11.686 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 02-08-2022 11:36:11.686 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 02-08-2022 11:36:11.925 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 02-08-2022 11:36:13.081 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 02-08-2022 11:36:15.128 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:36:20.805 TC002_loginTestCase - the url is entered and opening
+[INFO ] 02-08-2022 11:36:26.079 TC002_loginTestCase - username is entered
+[INFO ] 02-08-2022 11:36:26.343 TC002_loginTestCase - password is entered 
+[INFO ] 02-08-2022 11:36:28.151 TC002_loginTestCase - login button is clicked
+[INFO ] 02-08-2022 11:36:28.663 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 02-08-2022 11:36:28.797 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 02-08-2022 11:36:28.805 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 02-08-2022 11:36:30.081 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 02-08-2022 11:36:31.980 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 02-08-2022 11:36:37.584 TC003_dashboardPage - the url is entered and opening
+[INFO ] 02-08-2022 11:36:42.855 TC003_dashboardPage - username is entered
+[INFO ] 02-08-2022 11:36:43.151 TC003_dashboardPage - password is entered 
+[INFO ] 02-08-2022 11:36:44.875 TC003_dashboardPage - login button is clicked
+[INFO ] 02-08-2022 11:36:46.624 TC003_dashboardPage - screenshots captured successfully
+[INFO ] 02-08-2022 11:36:47.617 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 03-08-2022 11:15:38.402 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 03-08-2022 11:15:43.998 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 03-08-2022 11:15:44.018 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 03-08-2022 11:15:44.026 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 03-08-2022 11:15:44.026 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 03-08-2022 11:15:44.279 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 03-08-2022 11:15:45.405 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 03-08-2022 11:15:47.472 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 03-08-2022 11:15:53.084 TC002_loginTestCase - the url is entered and opening
+[INFO ] 03-08-2022 11:15:58.454 TC002_loginTestCase - username is entered
+[INFO ] 03-08-2022 11:15:58.670 TC002_loginTestCase - password is entered 
+[INFO ] 03-08-2022 11:16:00.376 TC002_loginTestCase - login button is clicked
+[INFO ] 03-08-2022 11:16:00.909 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 03-08-2022 11:16:01.005 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 03-08-2022 11:16:01.013 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 03-08-2022 11:16:01.999 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 03-08-2022 11:16:03.796 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 03-08-2022 11:16:09.439 TC003_dashboardPage - the url is entered and opening
+[INFO ] 03-08-2022 11:16:14.698 TC003_dashboardPage - username is entered
+[INFO ] 03-08-2022 11:16:14.963 TC003_dashboardPage - password is entered 
+[INFO ] 03-08-2022 11:16:18.085 TC003_dashboardPage - login button is clicked
+[INFO ] 03-08-2022 11:16:19.617 TC003_dashboardPage - screenshots captured successfully
+[INFO ] 03-08-2022 11:16:20.788 TC003_dashboardPage - successfuly closed the browser
+[INFO ] 03-08-2022 11:19:19.025 TC001_verifyhomePage - chrome browser is launched succesfully
+[INFO ] 03-08-2022 11:19:24.701 TC001_verifyhomePage - the url is entered and opening
+[INFO ] 03-08-2022 11:19:24.728 TC001_verifyhomePage - the displayed url is : https://opensource-demo.orangehrmlive.com/
+[INFO ] 03-08-2022 11:19:24.739 TC001_verifyhomePage - title of the page is :OrangeHRM
+[INFO ] 03-08-2022 11:19:24.739 TC001_verifyhomePage - orange hrm  application is opened
+[INFO ] 03-08-2022 11:19:25.059 TC001_verifyhomePage - screenshots captured successfully
+[INFO ] 03-08-2022 11:19:26.242 TC001_verifyhomePage - successfuly closed the browser
+[INFO ] 03-08-2022 11:19:28.398 TC002_loginTestCase - chrome browser is launched succesfully
+[INFO ] 03-08-2022 11:19:33.889 TC002_loginTestCase - the url is entered and opening
+[INFO ] 03-08-2022 11:19:39.234 TC002_loginTestCase - username is entered
+[INFO ] 03-08-2022 11:19:39.479 TC002_loginTestCase - password is entered 
+[INFO ] 03-08-2022 11:19:41.093 TC002_loginTestCase - login button is clicked
+[INFO ] 03-08-2022 11:19:41.602 TC002_loginTestCase - screenshots captured successfully
+[INFO ] 03-08-2022 11:19:41.696 TC002_loginTestCase - dashboard link is displayed
+[INFO ] 03-08-2022 11:19:41.703 TC002_loginTestCase - the title displayed after login is: OrangeHRM
+[INFO ] 03-08-2022 11:19:42.543 TC002_loginTestCase - successfuly closed the browser
+[INFO ] 03-08-2022 11:19:44.341 TC003_dashboardPage - chrome browser is launched succesfully
+[INFO ] 03-08-2022 11:19:49.985 TC003_dashboardPage - the url is entered and opening
+[INFO ] 03-08-2022 11:19:55.212 TC003_dashboardPage - username is entered
+[INFO ] 03-08-2022 11:19:55.415 TC003_dashboardPage - password is entered 
+[INFO ] 03-08-2022 11:19:57.042 TC003_dashboardPage - login button is clicked
+[INFO ] 03-08-2022 11:19:58.733 TC003_dashboardPage - screenshots captured successfully
+[INFO ] 03-08-2022 11:19:59.821 TC003_dashboardPage - successfuly closed the browser

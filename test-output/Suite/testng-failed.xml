@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browserName" value="chrome"/>
+  <test thread-count="5" name="TC001_verifyhomePage(failed)">
+    <classes>
+      <class name="com.orangehrm.testcases.TC001_verifyhomePage">
+        <methods>
+          <include name="verifyHomePageTitleTestCase"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.orangehrm.testcases.TC001_verifyhomePage -->
+    </classes>
+  </test> <!-- TC001_verifyhomePage(failed) -->
+</suite> <!-- Failed suite [Suite] -->
